@@ -1,1 +1,1 @@
-This is my portfolio folder for github pages
+This is my portfolio repository in github pages branch
